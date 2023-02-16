@@ -1,0 +1,17 @@
+DÜZELTİLECEKLER
+-------------------------------------------------------------------------------------------------------------------
+oyun sonunda enterla oyun tekrar başlamıyor
+platform frame'in diğer tarfından gelmiyor yarısı çıkıyor sadece 
+top veya vurulan kutuların collider'ı hatalı çalışıyor top kutuya dokunmadan dokundu sayıyor
+
+
+EKLENECEKLER
+---------------------------------------------------------------------------------------------------------------
+
+bir'den çok oyun oynanırsa her oyun sonunda bu oyunların skoru yazacak eğer oyunu kazanamamışsa bile
+
+
+KALDIRILACAKLAR
+----------------------------------------------------------------------------------------------------------------
+
+Github profiline git yazısı kaldırılacak
